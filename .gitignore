@@ -1,9 +1,9 @@
 /node_modules
 /keys.env
 
-/client/node_modules
-/client/.pnp
-/client/.pnp.js
+# /client/node_modules
+# /client/.pnp
+# /client/.pnp.js
 
 # # testing
 # /src/coverage
