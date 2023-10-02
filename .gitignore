@@ -5,19 +5,20 @@
 /client/.pnp
 /client/.pnp.js
 
-# testing
-/src/coverage
+# # testing
+# /src/coverage
 
-# production
-/src/build
+# # production
+# /src/build
 
-# misc
-/src/.DS_Store
-/src/.env.local
-/src/.env.development.local
-/src.env.test.localgi
-/src.env.production.local
+# # misc
+# /src/.DS_Store
+# /src/.env.local
+# /src/.env.development.local
+# /src.env.test.localgi
+# /src.env.production.local
 
-/src/npm-debug.log*
-/src/yarn-debug.log*
-/src/yarn-error.log*
+# /src/npm-debug.log*
+# /src/yarn-debug.log*
+# /src/yarn-error.log*
+package-lock.json
